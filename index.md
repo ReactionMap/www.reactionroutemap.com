@@ -1,8 +1,6 @@
 Welcome to RMapViewer wiki
 ========
 
-[[download_button]]
-
 Installation
 =======
 
@@ -14,7 +12,7 @@ Please confirm that your system has [Open Babel](http://openbabel.org/wiki/Main_
 for Mac (recommended MacOSX 10.9 or later)
 ------------------
 
-1. Please download the latest .zip file from https://sourceforge.net/projects/rmapviewer/files/mac/ .
+1. Please download the latest .zip file from [latest release](https://github.com/ReactionMap/RMapViewer/releases/).
 
 2. Please double-click the .zip file to extract the RMapViewer application and a data folder.
 
@@ -24,11 +22,11 @@ for Mac (recommended MacOSX 10.9 or later)
 for Windows
 ------------------
 
-1. Please download the latest .zip file from https://sourceforge.net/projects/rmapviewer/files/windows/ .
+1. Please download the latest .zip file from [latest release](https://github.com/ReactionMap/RMapViewer/releases/).
 
 2. Please extract the .zip and place the RMapViewer-<version> directory in a non-network drive.
 
-3. Double click the RMapViewer file (with a gear icon) in the RMapViewer-<version> directory to launch RMapViewer.
+3. Double click the Pharo.exe file in the RMapViewer-<version> directory to launch RMapViewer.
 
 
 How to use
